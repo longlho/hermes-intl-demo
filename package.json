@@ -17,7 +17,11 @@
     "react-native-reanimated": "~1.7.0",
     "react-native-screens": "~2.2.0",
     "react-native-unimodules": "~0.9.0",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.11.7",
+    "@formatjs/intl-getcanonicallocales": "^1.2.6",
+    "@formatjs/intl-pluralrules": "^2.2.9",
+    "@formatjs/intl-numberformat": "^4.2.9",
+    "@formatjs/intl-datetimeformat": "^1.2.2"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
